@@ -1,6 +1,7 @@
 # Produit de convolution d'une matrice en C
 
 ![Alt text](image.png)
+
 J'ai crée ce projet pour un devoir scolaire.
 
 ### Comment utiliser
